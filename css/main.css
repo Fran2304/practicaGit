@@ -1,4 +1,13 @@
 body{
-  background-color: gray;
+  background-color: #fff;
   color:black;
+}
+
+h1{
+  font-size: 20 px;
+  margin-bottom: 10px;
+}
+
+p {
+  color: #ddd
 }
